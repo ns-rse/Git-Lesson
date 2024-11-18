@@ -2,7 +2,7 @@
 
 This is my todo list for 2024-22-18...
 
-- Teach the Git, GitHub and GitKraken Course
+- ~~Teach the Git, GitHub and GitKraken Course~~
 - Get some lunch.
 - Work on TOpoStats issue 517
 - Get shopping
@@ -11,3 +11,6 @@ This is my todo list for 2024-22-18...
 - Take my daughter to her karate class
 - Cook pasta for daughter
 - feed the cat (otherwise she get angry and bites me!)
+- Read a story to my daughter at bedtime
+- Read my own book
+- Goto bed!
